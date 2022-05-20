@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99e6b1a8-dd24-4e9b-be19-7be83b01ad62" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../lab_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/out/production/untitled/mainPackage/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/out/production/untitled/mainPackage/Cheese.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/out/production/untitled/mainPackage/Consumable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/out/production/untitled/mainPackage/Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/out/production/untitled/mainPackage/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/out/production/untitled/mainPackage/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/out/production/untitled/mainPackage/Nutritious.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/out/production/untitled/mainPackage/Sandwich.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/src/mainPackage/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/src/mainPackage/Cheese.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/src/mainPackage/Consumable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/src/mainPackage/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/src/mainPackage/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/src/mainPackage/Nutritious.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/src/mainPackage/Sandwich.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab_1/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+  </component>
+  <component name="ProjectId" id="28h3KL9HVo9j86aFNt0mW8s3Hzi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99e6b1a8-dd24-4e9b-be19-7be83b01ad62" name="Changes" comment="" />
+      <created>1651654928052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651654928052</updated>
+      <workItem from="1651654930289" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
